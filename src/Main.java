@@ -8,7 +8,5 @@ public class Main {
         Client secondClient = new Client("Boris",20000, 452585612);
         Client thirdClient = new Client("John",100, 415853128);
 
-        String tere = firstClient.tere();
-        System.out.println(tere);
     }
 }
