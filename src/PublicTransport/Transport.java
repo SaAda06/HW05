@@ -2,6 +2,7 @@ package PublicTransport;
 
 public class Transport {
     private String name;
+    private Integer spots;
 //    private Integer spots;
 
     public Transport() {
